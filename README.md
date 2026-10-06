@@ -11,5 +11,3 @@ Versi ini mempertahankan layout V1 dan mengembalikan seluruh slot gambar.
 - `images/drink-placeholder.svg` — foto minuman
 - `images/promo-placeholder.svg` — foto/poster promo
 - `images/social-placeholder.svg` — foto konten/aktivitas
-
-Ganti file placeholder dengan foto asli menggunakan nama file yang sama agar layout tidak perlu diubah.
