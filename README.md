@@ -1,7 +1,5 @@
 # Mie Ayam Ae Koboy — V1 Clean + Image Slots
 
-Versi ini mempertahankan layout V1 dan mengembalikan seluruh slot gambar.
-
 ## Slot gambar
 - `images/hero-placeholder.svg` — foto hero utama
 - `images/warung-placeholder.svg` — foto suasana warung
